@@ -7,24 +7,28 @@ module.exports = [
     items: [
       // 说明：以下所有link的值只是在相应md文件定义的永久链接（不是什么特殊生成的编码）。另外，注意结尾是有斜杠的
       {
-        text: '前端文章',
+        text: '开发规则',
         items: [
-          { text: 'JavaScript', link: '/pages/8143cc480faf9a11/' },
-          // { text: 'Vue', link: '/pages/5d463fbdb172d43b/' },
+          { text: 'HTML&CSS', link: '/pages/64be92/' },
         ],
       },
       {
-        text: '学习笔记',
+        text: '前端常用',
         items: [
-          { text: '《JavaScript教程》', link: '/note/javascript/' },
-          { text: '《JavaScript高级程序设计》', link: '/note/js/' },
-          { text: '《ES6 教程》', link: '/note/es6/' },
-          { text: '《Vue》', link: '/note/vue/' },
-          { text: '《React》', link: '/note/react/' },
+          { text: '《JavaScript教程》', link: '/pages/f5afcd/' },
+          { text: '《ES6 教程》', link: '/pages/f344d070a1031ef7' },
+          { text: '《Vue》', link: '/pages/b82b99/' },
+          { text: '《React》', link: '/pages/599976/' },
           {
             text: '《Git》',
-            link: '/note/git/',
+            link: '/pages/e6f953/',
           }
+        ],
+      },
+      {
+        text: '框架',
+        items: [
+          { text: '前端服务框架调研', link: '/pages/4e34eb/' },
         ],
       },
     ],
@@ -49,9 +53,9 @@ module.exports = [
     text: '更多',
     link: '/more/',
     items: [
-      { text: '学习', link: '/pages/f2a556/' },
-      { text: '面试', link: '/pages/aea6571b7a8bae86/' },
-      { text: '实用技巧', link: '/pages/baaa02/' },
+      { text: '效率', link: '/pages/c1326e/' },
+      { text: '面试', link: '/pages/f2cc3a/' },
+      { text: '工具', link: '/pages/69551d/' },
     ],
   },
   {
