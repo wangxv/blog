@@ -1,15 +1,14 @@
 ---
 title: flex布局语法
-date: 2019-12-25 14:27:01
-permalink: /pages/0a83b083bdf257cb
-author: 
-  name: 阮一峰
-categories: 
+date: 2021-09-26 09:17:34
+permalink: /pages/493114/
+categories:
   - 页面
   - CSS
-tags: 
-  - null
+tags:
+  - 
 ---
+
 # flex布局语法
 
 ## 一、flex 布局是什么？

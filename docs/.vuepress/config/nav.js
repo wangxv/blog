@@ -15,12 +15,10 @@ module.exports = [
       {
         text: '前端常用',
         items: [
-          { text: '《JavaScript教程》', link: '/note/javascript/' },
-          { text: '《JavaScript高级程序设计》', link: '/note/js/' },
-          { text: '《ES6 教程》', link: '/note/es6/' },
-          { text: '《Vue》', link: '/note/vue/' },
-          { text: '《React》', link: '/note/react/' },
-          { text: '《Git》', link: '/note/git/' },
+          { text: '《JavaScript教程》', link: '/pages/f5afcd/' },
+          { text: '《Vue》', link: '/pages/b82b99/' },
+          { text: '《React》', link: '/pages/599976/' },
+          { text: '《Git》', link: '/pages/cc0a9c/' },
         ],
       },
       {
@@ -35,16 +33,16 @@ module.exports = [
     text: '页面',
     link: '/ui/',
     items: [
-      { text: 'HTML', link: '/pages/8309a5b876fc95e3/' },
-      { text: 'CSS', link: '/pages/0a83b083bdf257cb/' },
+      { text: 'HTML', link: '/pages/3a5430/' },
+      { text: 'CSS', link: '/pages/493114/' },
     ],
   },
   {
     text: '技术',
     link: '/technology/',
     items: [
-      { text: '技术文档', link: '/pages/9a7ee40fc232253e/' },
-      { text: 'Nodejs', link: '/pages/117708e0af7f0bd9/' }
+      { text: '技术文档', link: '/pages/9b7d7c/' },
+      { text: 'Nodejs', link: '/pages/73bb5b/' }
     ],
   },
   {
