@@ -50,7 +50,7 @@ module.exports = {
   blogger: {
     // 博主信息，显示在首页侧边栏
     avatar: 'img/avatar.jpg',
-    name: '王旭珂',
+    name: 'wangxv',
     slogan: '前端界的学前班',
   },
   social: {
@@ -78,6 +78,6 @@ module.exports = {
     // 页脚信息
     createYear: 2021, // 博客创建年份
     copyrightInfo:
-      '王旭珂 | <a href="https://github.com/wangxv/blog/blob/master/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
+      'wangxv | <a href="https://github.com/wangxv/blog/blob/master/LICENSE" target="_blank">MIT License</a>', // 博客版权信息，支持a标签
   }
 }
