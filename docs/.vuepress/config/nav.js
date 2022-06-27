@@ -21,10 +21,7 @@ module.exports = [
           { text: '《ES6 教程》', link: '/note/es6/' },
           { text: '《Vue》', link: '/note/vue/' },
           { text: '《React》', link: '/note/react/' },
-          {
-            text: '《Git》',
-            link: '/note/git/',
-          }
+          { text: '《Git》', link: '/note/git/' },
         ],
       },
     ],
