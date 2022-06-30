@@ -16,7 +16,7 @@ module.exports = [
         text: '前端常用',
         items: [
           { text: '《JavaScript教程》', link: '/pages/f5afcd/' },
-          { text: '《Vue》', link: '/pages/b82b99/' },
+          { text: '《Vue》', link: '/pages/66182f/' },
           { text: '《React》', link: '/pages/599976/' },
           { text: '《Git》', link: '/pages/cc0a9c/' },
         ],
