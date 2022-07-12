@@ -20,3 +20,4 @@ Vue 3 中一些需要关注的新功能包括：
 * 单文件组件状态驱动的 CSS 变量 (`<style>` 中的 v-bind)
 * SFC `<style scoped>` 现在可以包含全局规则或只针对插槽内容的规则
 * Suspense <font color="red">实验性</font>
+
