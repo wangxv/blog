@@ -154,7 +154,7 @@ import { defineComponent } from 'vue';
 import './index.less';
 
 export default defineComponent({
-  name: 'TodoList',
+  name: 'TodoItem',
   props: {
     item: {
       type: Object,
